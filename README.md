@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">a fucking Wanker</h3>
+<h3 align="center">a passionate Software Developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielr1996" alt="danielr1996" /> </p>
 
