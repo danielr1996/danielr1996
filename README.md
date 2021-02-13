@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">a passionate Software Developer from Germany</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=danielr1996)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=danielr1996&title=MultiLanguage,Commit,Issues,PullRequest,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [bumpup](https://github.com/danielr1996/bumpup)
 
