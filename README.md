@@ -3,9 +3,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=danielr1996&title=MultiLanguage,Commit,Issues,PullRequest,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [bumpup](https://github.com/danielr1996/bumpup)
+- 🔭 I’m currently working on [bashdoard](https://github.com/danielr1996/bashdoard)
 
-- 🌱 I’m currently learning **Deno**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/danielr1996](https://github.com/danielr1996)
 
