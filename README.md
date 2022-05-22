@@ -12,5 +12,5 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/danielr1996](https://github.com/danielr1996)
 
-- 🖥️ Checkout my website at [https://danielr1996.de](danielr1996.de)
+- 🖥️ Checkout my website at [danielr1996.de](https://www.danielr1996.de/)
 
