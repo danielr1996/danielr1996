@@ -6,7 +6,7 @@
   
 </div>
 
-- 🔭 I’m currently working on [selfhosted monitoring](https://github.com/danielr1996/selfhosted-monitoring), a tool to better visualize my private cloud
+- 🔭 I’m currently working on [arbeitszeit](https://github.com/danielr1996/arbeitszeit), a tool to better visualize my daily working times
 
 - 🌱 I’m currently learning **React, NextJS and the JAMStack**
 
