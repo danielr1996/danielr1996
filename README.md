@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, NextJS and the JAMStack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/danielr1996](https://github.com/danielr1996)
+- 👨‍💻 You can find my private projects on [https://github.com/danielr1996](https://github.com/danielr1996?tab=repositories)
 
 - 🖥️ Checkout my website at [danielr1996.de](https://www.danielr1996.de/)
 
