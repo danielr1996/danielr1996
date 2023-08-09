@@ -12,5 +12,5 @@
 
 - 👨‍💻 You can find my private projects on [https://github.com/danielr1996](https://github.com/danielr1996?tab=repositories)
 
-- 🖥️ Checkout my website at [danielr1996.de](https://www.danielr1996.de/)
+- 🖥️ Checkout my website at [danielrichter.codes](https://www.danielrichter.codes/)
 
