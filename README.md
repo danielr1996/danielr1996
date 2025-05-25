@@ -6,11 +6,10 @@
   
 </div>
 
-- 🔭 I’m currently working on [arbeitszeit](https://github.com/danielr1996/arbeitszeit), a tool to better visualize my daily working times
+- 🔭 I’m currently working on [nat64](https://github.com/danielr1996nat64/), a a public NAT64+DNS64 gateway that allowes IPv6-only hosts to access IPv4 hosts and vice versa.
 
-- 🌱 I’m currently learning **React, NextJS and the JAMStack**
+- 🌱 I’m currently learning **Large Scale Networking, Datacenter Operations and Infrastructure Automation**
 
-- 👨‍💻 You can find my private projects on [https://github.com/danielr1996](https://github.com/danielr1996?tab=repositories)
 
 - 🖥️ Checkout my website at [danielrichter.codes](https://www.danielrichter.codes/)
 
