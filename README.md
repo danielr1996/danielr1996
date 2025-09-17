@@ -6,7 +6,7 @@
   
 </div>
 
-- 🔭 I’m currently working on [nat64](https://github.com/danielr1996nat64/), a a public NAT64+DNS64 gateway that allowes IPv6-only hosts to access IPv4 hosts and vice versa.
+- 🔭 I’m currently working on on [openfahrplan](https://github.com/danielr1996/openfahrplan/), a little demo app to experiment with public transport systems
 
 - 🌱 I’m currently learning **Large Scale Networking, Datacenter Operations and Infrastructure Automation**
 
