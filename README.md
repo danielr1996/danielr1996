@@ -6,7 +6,7 @@
   
 </div>
 
-- 🔭 I’m currently working on on [openfahrplan](https://github.com/danielr1996/openfahrplan/), a little demo app to experiment with public transport systems
+- 🔭 I’m currently working on [openfahrplan](https://github.com/danielr1996/openfahrplan/), a little demo app to experiment with public transport systems
 
 - 🌱 I’m currently learning **Large Scale Networking, Datacenter Operations and Infrastructure Automation**
 
