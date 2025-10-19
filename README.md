@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">a passionate Software Developer from Germany</h3>
+<h3 align="center">a Software Developer from Germany</h3>
 <div align="center">
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=danielr1996&title=MultiLanguage,Commit,Issues,PullRequest,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
